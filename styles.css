@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.phone {
+    height: 650px;
+    float: left;
+}
+
+body {
+    background-color: #fafafa!important;
+}
+
+.cellBckGrnd {
+    background: #fafafa;
+    margin-left: 155px !important;
+    top: 150px !important;
+    width: 260px;
+    height: 465px;
+    border-radius: 6px !important;
+    position: absolute !important;
+    overflow: hidden;
+}
+
+.cellBckGrnd img {
+    width: 260px;
+    height: 465px;
+    border-radius: 6px !important;
+}
+
+.right_container {
+    background: #fff;
+    border: 1px solid #e6e6e6;
+    width: 350px;
+    margin: 10px;
+}
+
+.logo_insta {
+    width: 175px;
+    height: auto;
+}
+
+.borderbox {
+    border: 1px solid rgba(219, 219, 219, 1) !important;
+    font-size: 14px !important;
+    line-height: 30px !important;
+}
+
+.noborder {
+    border: none !important;
+    font-size: 14px !important;
+    line-height: 30px !important;
+    border-radius: 5px;
+}
+
+.or {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.line {
+    width: 105px;
+    height: 2px;
+    background: #efefef;
+    top: 11px;
+}
+
+.or p {
+    font-size: 12px;
+    color: #999;
+    font-weight: 600;
+    padding-top: 14px;
+}
+
+.loginfb {
+    font-size: 14px;
+    vertical-align: middle;
+}
+
+.forgot {
+    font-size: 12px;
+    text-decoration: none !important;
+}
+
+/* a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+} */
+
+.correction {
+    transform: translateY(5px);
+}
+
+.colortextoazul {
+    color: rgba(var(--fe0, 0, 55, 107), 1) !important
+}
+
+.right_container_bottom {
+    width: 350px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.wrapper .header .top .diff .forgot {
+    font-size: 12px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.wrapper .header .apps {
+    text-align: center;
+    color: #262626;
+}
+
+.storeimg {
+    width: 135px;
+    height: 40px;
+    margin: 0 5px;
+}
+
+.footer {
+    font-size: 12px;
+    color: rgba(var(--f52, 142, 142, 142), 1);
+}
+
+.lenguage {
+    background: #fafafa;
+    border: none;
+    color: rgba(var(--f52, 142, 142, 142), 1);
+}
+
+.x {
+    transform: translateY(10px);
+}
